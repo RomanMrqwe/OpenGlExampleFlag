@@ -4,7 +4,7 @@ OpenGl Example Flag
 flag.cpp - main logic
 flag.shader.vs - vertex logic
 
-do it - like test for job
+test for job
 
 have prebuild exe in folder
 
